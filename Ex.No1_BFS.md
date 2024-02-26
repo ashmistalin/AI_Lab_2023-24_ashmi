@@ -42,7 +42,6 @@ bfs(visited, graph, '5')    # function calling
 
 ### Output:
 
-![Screenshot (468)](https://github.com/DrUmaRaniV/AI_Lab_2023-24/assets/103128410/35aa925b-11d9-4ded-87b9-6caa5d412acc)
 
 
 ### Result:
