@@ -39,13 +39,6 @@ print(minimax(0, 0, True, scores, treeDepth))
 ```
 
 
-
-
-
-
-
-
-
 ### Output:
 
 
