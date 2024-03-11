@@ -52,7 +52,7 @@ course(bk301,dept(havefun)).
 ```
 
 ### Output:
-![Screenshot (498)](https://github.com/DrUmaRaniV/AI_Lab_2023-24/assets/103128410/4088342c-708e-48d7-a673-7cd7f14b3782)
+![Screenshot (499)](https://github.com/DrUmaRaniV/AI_Lab_2023-24/assets/103128410/e1c5acb4-591b-42c4-9169-48130cdbe7a3)
 
 ### Task 3:
 Consider the statement <br> 
@@ -81,7 +81,7 @@ american(west).
 ```
 
 ### Output:
-![Screenshot (499)](https://github.com/DrUmaRaniV/AI_Lab_2023-24/assets/103128410/e1c5acb4-591b-42c4-9169-48130cdbe7a3)
+![Screenshot (498)](https://github.com/DrUmaRaniV/AI_Lab_2023-24/assets/103128410/4088342c-708e-48d7-a673-7cd7f14b3782)
 
 ### Result:
 Thus the prolog programs were executed successfully and the answer of query was found.
