@@ -1,6 +1,6 @@
 # Ex.No: 10  Logic Programming –  Simple queries from facts and rules
-### DATE:                                                                            
-### REGISTER NUMBER : 
+### DATE: 11-03-24                                                                           
+### REGISTER NUMBER : 212221040021
 ### AIM: 
 To write a prolog program to find the answer of query. 
 ###  Algorithm:
@@ -31,6 +31,7 @@ alive(bill).
 ```
 
 ### Output:
+![Screenshot (497)](https://github.com/DrUmaRaniV/AI_Lab_2023-24/assets/103128410/9d5c8220-2fbe-4aa6-bf25-2eb0daf592b7)
 
 ### Task 2:
 Consider the following facts and represent them in predicate form: <br>              
@@ -51,6 +52,7 @@ course(bk301,dept(havefun)).
 ```
 
 ### Output:
+![Screenshot (498)](https://github.com/DrUmaRaniV/AI_Lab_2023-24/assets/103128410/4088342c-708e-48d7-a673-7cd7f14b3782)
 
 ### Task 3:
 Consider the statement <br> 
@@ -79,6 +81,7 @@ american(west).
 ```
 
 ### Output:
+![Screenshot (499)](https://github.com/DrUmaRaniV/AI_Lab_2023-24/assets/103128410/e1c5acb4-591b-42c4-9169-48130cdbe7a3)
 
 ### Result:
 Thus the prolog programs were executed successfully and the answer of query was found.
