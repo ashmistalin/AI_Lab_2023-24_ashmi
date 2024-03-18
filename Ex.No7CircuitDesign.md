@@ -1,4 +1,4 @@
-# Ex.No: 7  Logic Programming –  Logic Circuit Design
+![image](https://github.com/ashmistalin/AI_Lab_2023-24_ashmi/assets/103128410/052e4501-f018-4f4c-b6aa-ad44aacf7b1c)# Ex.No: 7  Logic Programming –  Logic Circuit Design
 ### DATE: 18-03-24                                                                           
 ### REGISTER NUMBER : 212221040021
 ### AIM: 
@@ -14,6 +14,8 @@ To write a logic program to design a circuit like half adder and half subtractor
 8. Stop the program.
 
 ### Program:
+
+## HALF ADDER , HALF SUBTRACTOR:
 ```
 and(0,0,0).
 and(0,1,0).
@@ -34,11 +36,42 @@ halfsubtractor(A,B,Diff,Bo):-
     and(B,X,Bo).
 
 ```
+## FULL ADDER:
+```
+full_adder(A, B, Cin, Sum, Cout) :-
+    half_adder(A, B, S1, C1),
+    half_adder(S1, Cin, Sum, C2),
+    or(C1, C2, Cout).
+
+half_adder(A, B, Sum, Carry) :-
+    xor(A, B, Sum),
+    and(A, B, Carry).
+
+xor(0, 0, 0).
+xor(0, 1, 1).
+xor(1, 0, 1).
+xor(1, 1, 0).
+
+and(0, 0, 0).
+and(0, 1, 0).
+and(1, 0, 0).
+and(1, 1, 1).
+
+or(0, 0, 0).
+or(0, 1, 1).
+or(1, 0, 1).
+or(1, 1, 1).
+```
 
 ### Output:
 
+## HALF ADDER:
 ![Screenshot (536)](https://github.com/DrUmaRaniV/AI_Lab_2023-24/assets/103128410/073e9736-3e27-443f-bf2e-4e6cec3eb3b6)
+
+## HALF SUBTRACTOR:
 ![Screenshot (537)](https://github.com/DrUmaRaniV/AI_Lab_2023-24/assets/103128410/605073e5-3576-45b3-bfd0-c0c8e2cb918b)
+
+## FULL ADDER:
 
 
 ### Result:
