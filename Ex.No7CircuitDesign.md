@@ -37,6 +37,8 @@ halfsubtractor(A,B,Diff,Bo):-
 
 ### Output:
 
+![Screenshot (536)](https://github.com/DrUmaRaniV/AI_Lab_2023-24/assets/103128410/073e9736-3e27-443f-bf2e-4e6cec3eb3b6)
+![Screenshot (537)](https://github.com/DrUmaRaniV/AI_Lab_2023-24/assets/103128410/605073e5-3576-45b3-bfd0-c0c8e2cb918b)
 
 
 ### Result:
