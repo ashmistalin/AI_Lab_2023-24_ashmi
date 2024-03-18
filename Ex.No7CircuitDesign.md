@@ -1,4 +1,4 @@
-![image](https://github.com/ashmistalin/AI_Lab_2023-24_ashmi/assets/103128410/052e4501-f018-4f4c-b6aa-ad44aacf7b1c)# Ex.No: 7  Logic Programming –  Logic Circuit Design
+# Ex.No: 7  Logic Programming –  Logic Circuit Design
 ### DATE: 18-03-24                                                                           
 ### REGISTER NUMBER : 212221040021
 ### AIM: 
@@ -72,6 +72,7 @@ or(1, 1, 1).
 ![Screenshot (537)](https://github.com/DrUmaRaniV/AI_Lab_2023-24/assets/103128410/605073e5-3576-45b3-bfd0-c0c8e2cb918b)
 
 ## FULL ADDER:
+![Screenshot (538)](https://github.com/DrUmaRaniV/AI_Lab_2023-24/assets/103128410/041f5577-f183-4209-be6b-4184bc59de0c)
 
 
 ### Result:
