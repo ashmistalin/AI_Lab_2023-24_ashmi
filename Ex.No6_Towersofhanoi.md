@@ -31,7 +31,7 @@ move(N,X,Y,Z) :-
 
 
 ### Output:
-![image](https://github.com/ashmistalin/AI_Lab_2023-24_ashmi/assets/103128410/8e4ee8d4-5cf9-4288-ae82-e9122cfeae13)
+![Screenshot (547)](https://github.com/ashmistalin/AI_Lab_2023-24_ashmi/assets/103128410/84b29f54-3056-45de-821e-6a585ea19991)
 
 
 
