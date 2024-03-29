@@ -1,4 +1,4 @@
-![image](https://github.com/ashmistalin/AI_Lab_2023-24_ashmi/assets/103128410/585ab9a1-7c89-458d-a08c-42899cdb90c1)# Ex.No: 6   Logic Programming – Factorial of number   
+# Ex.No: 6   Logic Programming – Factorial of number   
 ### DATE:                                                                            
 ### REGISTER NUMBER : 
 ### AIM: 
